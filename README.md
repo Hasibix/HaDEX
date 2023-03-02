@@ -1,7 +1,7 @@
 # HaDEX
 HaDEX is the desktop environment for HaOS that is WIP. It is written using Flutter/Dart and few other languages. HaDEX is also WIP (Work in Progress).
 
-This project is **COMPLETELY** free to use. Anyone can make use of this project for any kind of open source use, so long as said use is also under the AGPL license. For more info, consult [LICENSE.md](https://github.com/Hasibix/HaDEX/blob/master/LICENSE.md)
+This project is **COMPLETELY** free to use. Anyone can make use of this project for any kind of open source use, so long as said use is also under the GPLv3 license. For more info, consult [LICENSE.md](https://github.com/Hasibix/HaDEX/blob/master/LICENSE.md)
 
 Credits:
 
