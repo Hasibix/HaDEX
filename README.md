@@ -7,6 +7,8 @@ Credits:
 
 [Asterisk-ops](https://github.com/Ast3risk-ops) - License, README
 
+Evalix - Bash Scripts, Themes, UI
+
 More information about this project, docs and more credits coming soon.
 
 ---------------------------------------------------
